@@ -12,7 +12,6 @@
 		this.posterFirstItem = this.posterItems.eq(0);
 		this.posterLastItem = this.posterItems.last();
 
-		// 默认配置参数
 		this.setting = {
 				width: 1000,
 				height: 270,
